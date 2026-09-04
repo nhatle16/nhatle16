@@ -53,7 +53,7 @@ Alongside my interest in AI, I'm expanding my knowledge of cloud computing. I'm 
 
 I am continuously strengthening my foundations in:
 
-Machine Learning → Deep Learning → RAG & AI Agents → AI Application Development → Cloud & AI Deployment
+&emsp;Machine Learning → Deep Learning → RAG & AI Agents → AI Application Development → Cloud & AI Deployment
 
 My goal is to become capable of not only training and understanding AI models, but also building complete AI-powered applications and deploying them in real-world environments.
 
